@@ -1,7 +1,0 @@
-print("Hi")
-a=10
-b=20
-c=a+b
-print("Total is:",c)
-
-
