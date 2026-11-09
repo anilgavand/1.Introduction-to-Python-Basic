@@ -2,8 +2,10 @@
 <br>
 Beginner-friendly Python programming fundamentals covering basic syntax, variables, data types, operators, conditional statements, loops, functions, and practical coding examples.
 <br>
+
 Key Topics Covered:
 <br>
+
 1. Introduction to Python and its applications
 <br>
 2. Python syntax and coding conventions
