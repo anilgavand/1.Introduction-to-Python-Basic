@@ -10,11 +10,11 @@ Key Topics Covered:
 <br>
 3. Variables and data types
 <br>
- 3.1 Integer (int)
+   3.1 Integer (int)
  <br>
- 3.2 Float (float)
+   3.2 Float (float)
  <br>
- 3.3 String (str)
+   3.3 String (str)
  <br>
 3.4 Boolean (bool)
 <br>
@@ -24,25 +24,25 @@ Key Topics Covered:
 <br>
 6. Conditional statements
 <br>
- 6.1 if
+   6.1 if
  <br>
- 6.2 elif
+   6.2 elif
  <br>
- 6.3 else
+   6.3 else
  <br>
 7. Loops
 <br>
- 7.1 for loop
+   7.1 for loop
  <br>
- 7.2 while loop
+   7.2 while loop
  <br>
 8. Functions
 <br>
- 8.1 Defining functions
+   8.1 Defining functions
  <br>
- 8.2 Function arguments
+   8.2 Function arguments
  <br>
- 8.3 Return values
+   8.3 Return values
  <br>
 9. Basic error handling
 <br>
