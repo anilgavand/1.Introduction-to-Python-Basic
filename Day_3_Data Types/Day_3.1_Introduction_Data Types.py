@@ -36,7 +36,7 @@ To undertand this we used data types.
 
 # 4.1 Dictionary (dict) : It is an unordered collection of key-value pairs enclosed in curly braces. Example: {'name': 'John', 'age': 30}
 
-# 5. Set Types:
+# 5. Set Types: Repeated values are not allowed in set data type.Prob:{1,1,2,3,3} Solution:{1, 2, 3} only unique values are allowed in set data type.
 
 # 5.1 Set (set) : It is an unordered collection of unique items enclosed in curly braces. Example: {1, 2, 3}, {'apple', 'banana', 'cherry'}
 # 5.2 Frozen Set (frozenset) : It is an immutable version of a set. Example: frozenset({1, 2, 3}), frozenset({'apple', 'banana', 'cherry'})
