@@ -1,23 +1,4 @@
-
-# 2.2 Variables in Python :
-
-'''
-Variable is a reserve memory location to store values.
-python variables are dynamically typed, which means you don't need to declare the data type explicitly.
-
-# Variables are used to store data in a program.  
-They act as containers that hold values, which can be of different data types such as integers, strings, lists, etc.
-
-'''
-
-# Hard coding : Hard coding refers to the practice of embedding fixed values directly into the source code of a program,
-# rather than obtaining them from external sources or user input. This can make the code less flexible and harder to maintain.
-
-'''
-Hard coding is useful for fixed values, whereas dynamic approaches are preferred when developing flexible,
-reusable applications, particularly in data analytics, procurement management, and supply chain management.
-'''
-# following Programe is for Variable
+# 2.4 Hard and dynamic coding in variable
 
 ''' 
 2.2.1. Hard Coding :
@@ -35,10 +16,7 @@ configuration files, or external sources.
 
 # Example 2 of Hard Coding in Python:
 
-Name="Anil"
-print("Good Morning")
-print("Welcome to Rovema Gmbh",Name)
-print("Have a nice day")
+
 
 
 # # Example 2 of Hard Coding in Python:
