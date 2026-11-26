@@ -122,10 +122,13 @@
 
 # print(a | b) # Here repeated values are not allowed in frozenset data type. It will print only unique values.
 
+# languages = frozenset(["Python", "Java", "C++", "Python"])
+
+# print(languages)
 
 # #3.7 None type
 
-remark=None  # to take response from user we can use input() function. 
-print("The remark is =",remark)
-print(type(remark))  #If user does not give any response then it will be None type.
+# remark=None  # to take response from user we can use input() function. 
+# print("The remark is =",remark)
+# print(type(remark))  #If user does not give any response then it will be None type.
 
