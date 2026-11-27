@@ -1,36 +1,54 @@
-# # # Python _Operators
-# #1.Arithmatic Operator
-# num1= 12
-# num2 =24
 
-# print(num1-num2)     #Substraction
-# print(num1*num2)     #multiplication
-# print(num2/num1)     #Division
-# print(num1**num2)    #power
+
+# # # Python _Operators
+
+# #1.Arithmatic Operator
+
+# Example 1.1 
+
+# Here we defined two variables to do some operations
+
+# a= 12
+# b = 24
+
+# print("Addition of Numbers:",a+b)            # Addition
+# print("Substraction of Numbers:",a-b)        # Substraction
+# print("Multiplication of Numbers:",a*b)      # multiplication
+# print("Division of two Numbers: ",a/b)       # Division
+# print("Power of two Numbers:",a**b)          # power/Exponant
+
 
 # ##2. Comparision Operator
-# p1=56
-# p2=42
-# p3=15
-# print(p1<p2)
-# print(p3>p1)
-# print(p1==p2==p3)
+
+# N1=35
+# N2=42
+# N3=15
+# print("The less than value is :",N1<N2)
+# print("Greater than value is : ",N3>N2)
+# print("The Value comparision is :",N1==N2==N3)  # Find out equal 
+
+# print(N1!=N2) # Not equal to sign 
+
 
 # # # 3. Assignment Operator
-# value=50
-# print(value)
-# value-=10   #subtraction and assign
-# print(value)
+
+value=50
+print("The Value is :",value)
+
+# value=value-10 this is the actual calculation write in the following line with shortcut way
+
+value-=10   #subtraction and assign
+print(value)
 
 # ## 4. Logical operator
 
-# x1=12
-# x2=23
-# x3=15
-# x4=26
-# print("And result is :",x1<x3 and x2>x4) #AND Condition
-# print("And result is :",x1<x3 and x2<x4) #AND Condition
-# print("or result is :",x1<x2 or x3<x4)  #OR Condition
+x1=12
+x2=23
+x3=15
+x4=26
+print("And result is :",x1<x3 and x2>x4) #AND Condition for condition should be true 
+print("And result is :",x1<x3 and x2<x4) #AND Condition
+print("or result is :",x1<x2 or x3<x4)  #OR Condition
 
 # #5. Identity operator
 # m1=100
@@ -39,5 +57,5 @@
 
 #6. Membership Operators
 
-print("Chech e s in te Mango :",'e'in 'mango')
-print("Chech a s in te Mango :",'a'in 'mango')
+# print("Chech e s in te Mango :",'e'in 'mango')
+# print("Chech a s in te Mango :",'a'in 'mango')
