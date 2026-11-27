@@ -5,37 +5,6 @@ Beginner-friendly Python programming fundamentals covering basic syntax, variabl
 
 These are the following topics covered with days.
 
-Day_1__Python_Introduction_and_Installation
-Day_2__Python_Comments_and_Variables
-Day_3__Python_Data_Types
-Day_4__Python_Operators_(All_About_Operators)
-Day_5__Python_Input,_Type_Casting,_and_Basic_Calculations
-Day_6__Python_Strings_Indexing_and_Slicing
-Day_7__String_Methods_in_Python
-Day_8__IF-ELSE_Conditions_in_Python
-Day_9__Python_Nested_IF_&_Multiple_Conditions
-Day_10__Python_Assignment_on_Nested_If_Statements
-Day_11__Python_For_Loop
-Day_12__Python_While_Loop
-Day_13__Python_Lists
-Day_14__Python_Tuples
-Day_15__Python_Dictionaries
-Day_16__Python_Sets
-Day_17__Python_Range_Function_and_Loops
-Day_18__Python_Functions
-Day_19__Python_String,_List,_and_Number_Functions
-Day_20__Python_File_Handling
-Day_21__Python_Reading_CSV_Files
-Day_22__Python_Writing_Cleaned_Data_to_CSV_Files
-Day_23__Python_NumPy_Arrays_and_Data_Cleaning
-Day_24__Python_All_About_Pandas_Library_for_Data_Analysis
-Day_25__Python_GroupBy,_Filtering,_and_Sorting_(Advanced_Pandas)
-Day_26__AI-Enabled_Python_for_Data_Analysis
-Day_27__AI-Generated_Pipeline_Automation_Using_Python
-Day_28__Python_Practical_Automation_Using_AI
-Day_29__GUI-Based_Automation_Using_AI_with_Python
-Day_30__Python_Data_Analysis_Project_Using_AI
-
 <img width="430" height="601" alt="image" src="https://github.com/user-attachments/assets/ad2639ab-9074-4cb0-899a-6d7a609e45e0" />
 
 Key Topics Covered:
