@@ -1,5 +1,7 @@
 # python input and Calculations
+
 # #Problem Statement: Total Sales Calculator
+
 # A retail store wants to calculate the total sales amount of a product sold during the day. The store manager needs a Python program that accepts the following details from the user:
 # Product Name
 # Quantity Sold
@@ -9,6 +11,7 @@
 # Finally, the program should display:
 # Product Name
 # Total Sales Amount
+
 print("--------------------------------------------------------------------")
 Name=input("Enter Customer Name : ")
 Year=int(input("Enter Customer order year :"))  #converting age in integer
@@ -18,6 +21,7 @@ Quantity_Sold=int(input("Total Quantity Sold:"))
 price_per_unit=float(input("Price Per Unit:"))
 Total_Sale_Amount=(Quantity_Sold*price_per_unit)
 GST_Amount=Total_Sale_Amount*0.18
+
 print("--------------------------------------------------------------------")
 print("Welcome",Name)
 print("Warranty will be Valid:",Year)

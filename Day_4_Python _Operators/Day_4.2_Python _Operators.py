@@ -18,7 +18,7 @@
 # print("Power of two Numbers:",a**b)          # power/Exponant
 
 
-# ##2. Comparision Operator
+#2. Comparision Operator
 
 # N1=35
 # N2=42
@@ -30,32 +30,56 @@
 # print(N1!=N2) # Not equal to sign 
 
 
-# # # 3. Assignment Operator
+# 3. Assignment Operator
 
-value=50
-print("The Value is :",value)
+# value=50
+# print("The Value is :",value)
 
-# value=value-10 this is the actual calculation write in the following line with shortcut way
+# # value=value-10 this is the actual calculation write in the following line with shortcut way
 
-value-=10   #subtraction and assign
-print(value)
+# value-=10   #subtraction and assign
+# print(value)
 
-# ## 4. Logical operator
+# 4. Logical operator (and,or,not)
 
-x1=12
-x2=23
-x3=15
-x4=26
-print("And result is :",x1<x3 and x2>x4) #AND Condition for condition should be true 
-print("And result is :",x1<x3 and x2<x4) #AND Condition
-print("or result is :",x1<x2 or x3<x4)  #OR Condition
+# x1=12
+# x2=23
+# x3=15
+# x4=26
+# print("And result is :",x1<x3 and x2>x4) #AND Condition for condition should be true 
+# print("And result is :",x1<x3 and x2<x4) #AND Condition
+# print("or result is :",x1<x2 or x3<x4)  #OR Condition
 
-# #5. Identity operator
+# Not : Reverses the result
+
+# Example 1
+
+# x = True
+# print(not x)  # It reverse the result
+
+
+# age = 16
+
+# if not age >= 18:
+#     print("You are not eligible to vote.")
+
+
+# #5. Identity operator : is,is not
+
 # m1=100
 # m2=100
 # print(m1 is m2)
 
-#6. Membership Operators
+# a = [1, 2, 3]
+# b = [1, 2, 3]
 
-# print("Chech e s in te Mango :",'e'in 'mango')
-# print("Chech a s in te Mango :",'a'in 'mango')
+# print(a == b)      # True
+# print(a is b) # False :The is operator checks whether both variables refer to the same object in memory here is different.
+# print(a is not b)  # True
+
+
+
+#6. Membership Operators : in
+
+print("Chech e s in te Mango :",'e'in 'mango')
+print("Chech a s in te Mango :",'a'in 'mango')
