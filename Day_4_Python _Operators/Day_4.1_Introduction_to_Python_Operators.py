@@ -6,8 +6,9 @@
 
 # Python operators :
 
+# Explain catagory of operator
 
-# 1.Arithmatic Operator is de
+# 1.Arithmatic Operator :
 
 
 
