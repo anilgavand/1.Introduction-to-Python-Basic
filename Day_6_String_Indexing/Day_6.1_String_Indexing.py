@@ -86,12 +86,12 @@ print(material_code[::-1])
 
 # #6.2 string Indexing
 
-# Name="Anil"
-# print(Name)
-# print(Name[0])
-# print(Name[1])
-# print(Name[2])
-# print(Name[3])
+Name="Hello Python"
+print(Name)
+print(Name[0])
+print(Name[1])
+print(Name[2])
+print(Name[3])
 
 # #6.3 string Indexing
 
